@@ -2,4 +2,4 @@
 
 veamos veamos $\frac{a+b}{2}$
 
-[prueba](prueba)
+[prueba](prueba.md)
