@@ -1,5 +1,5 @@
 # Complejidad2
 
-veamos veamos
+veamos veamos $\frac{a+b}{2}$
 
 [[prueba]]
